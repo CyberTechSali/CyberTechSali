@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AZ--500%20in%20progress-orange?style=for-the-badge&logo=azure" />
 </p>
 
-<h1 align="center">👋 Hi, I'm OUCHHAED SALMA</h1>
+<h1 align="center">👋 Hi, I'm OUCHAHED SALMA</h1>
 <p align="center">
 <b>Cybersecurity Engineering Student</b> | Focused on Cloud Security
 </p>
@@ -53,6 +53,6 @@ I work on securing infrastructures, auditing systems, and building secure cloud 
 ## 📫 Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ton-profil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ton-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/salma-ouchahed-652189206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ouchahedsalma.pro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>

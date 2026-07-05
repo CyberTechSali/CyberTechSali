@@ -57,8 +57,8 @@ Scripting         : PowerShell, Bash
 ## `~/contact`
 
 ```
-linkedin : linkedin.com/in/ton-profil
-email    : ton-email@example.com
+linkedin : https://www.linkedin.com/in/salma-ouchahed-652189206/
+email    : ouchahedsalma.pro@gmail.com
 ```
 
 <div align="center">
@@ -66,5 +66,5 @@ email    : ton-email@example.com
 `securing systems, one lab at a time.`
 
 </div>
-```
+
 

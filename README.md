@@ -1,47 +1,70 @@
-<h1 align="center">Hi there, I'm Salma 👋</h1>
-<h3 align="center">Cybersecurity Engineering Student | Focused on Cloud Security</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-preparing%20AZ--500-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-planned-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20AD%20Security-333?style=flat-square" />
-</p>
+<div align="center">
 
----
+```
+$ whoami
+```
 
-### 🧠 About
+</div>
 
-I'm currently studying to become an information systems security engineer, with a growing focus on **cloud security**. I like working hands-on: setting up secure infrastructures, auditing Active Directory environments, and analyzing threats in isolated labs.
+# Salma OUCHAHED
 
-Right now I'm preparing the **AZ-500** certification on Azure, and planning to move into **AWS** next to build a multi-cloud understanding.
-
----
-
-### 📂 What I've built
-
-- 🦠 **[WannaCry Ransomware — Dynamic Analysis](lien)**
-  Isolated lab analysis: process behavior, registry/filesystem forensics, C2 traffic, kill-switch validation.
-
-- ☁️ **[Secure Azure Cloud Infrastructure](lien)**
-  NetBird VPN, Wazuh SIEM/XDR, Zabbix monitoring, FortiGate NGFW, Nextcloud, Zammad.
-
-- 🌐 **[Network Security with pfSense](lien)**
-  3-zone segmentation (WAN/LAN/DMZ), Snort IDS/IPS, Squid proxy, HAProxy, OpenVPN.
-
-- 🔐 **[Active Directory Hardening & Security](lien)**
-  Full audit cycle: PingCastle/Purple Knight → BloodHound → Mimikatz → hardening. Risk score reduced from 55/100.
+```
+role        : Cybersecurity Engineering Student
+focus       : Cloud Security | Active Directory | Network Defense
+cloud       : Microsoft Azure (learning) — AZ-500 in progress
+next        : AWS — building multi-cloud knowledge
+status      : open to internships / entry-level roles
+```
 
 ---
 
-### 🛠️ Where I'm at
+## `~/projects`
 
-**Cloud (Azure)** `███████░░░` learning — AZ-500 in progress
-**Active Directory Security** `████████░░` comfortable, hands-on projects
-**Network Security (pfSense)** `███████░░░` comfortable
-**AWS** `██░░░░░░░░` planned next
+```
+[+] active-directory-hardening
+    tools: PingCastle, Purple Knight, BloodHound, Mimikatz
+    cycle: assess -> recon -> exploit -> harden
+    result: risk score 55/100 -> reduced
+
+[+] secure-azure-infrastructure
+    tools: Azure, NetBird VPN, Wazuh SIEM/XDR, Zabbix, FortiGate
+    scope: end-to-end secure cloud deployment + monitoring
+
+[+] network-security-pfsense
+    tools: pfSense, Snort, Squid, HAProxy, OpenVPN
+    scope: 3-zone segmentation (WAN/LAN/DMZ), remote VPN access
+
+[+] wannacry-dynamic-analysis
+    tools: isolated lab, network C2 tracing, registry/fs forensics
+    scope: ransomware behavior + kill-switch validation
+```
 
 ---
 
-### 📫 Reach me
+## `~/skills`
 
-[LinkedIn](lien) · [Email](mailto:ton-email@example.com)
+```
+Identity & AD     : Active Directory, LDAP, Kerberos/NTLM basics
+Cloud             : Azure (learning), AWS (planned)
+Security Tools    : Wazuh, Snort, FortiGate, Zabbix, NetBird, HAProxy
+Audit             : BloodHound, Mimikatz, PingCastle, Purple Knight
+Scripting         : PowerShell, Bash
+```
+
+---
+
+## `~/contact`
+
+```
+linkedin : linkedin.com/in/ton-profil
+email    : ton-email@example.com
+```
+
+<div align="center">
+
+`securing systems, one lab at a time.`
+
+</div>
+```
+

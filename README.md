@@ -5,9 +5,9 @@
   <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AZ--500%20in%20progress-orange?style=for-the-badge&logo=azure" />
 </p>
 
-<h1 align="center">👋 Hi, I'm [Ton Nom]</h1>
+<h1 align="center">👋 Hi, I'm [OUCHHAED SALMA]</h1>
 <p align="center">
-  <b>Aspiring Cybersecurity Engineer</b> | <b>Cloud Security</b>
+<b>Cybersecurity Engineering Student</b> | Focused on Cloud Security
 </p>
 
 ---

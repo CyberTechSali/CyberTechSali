@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Specialization-Cloud%20%26%20AD%20Security-blue?style=for-the-badge&logo=microsoft" />
